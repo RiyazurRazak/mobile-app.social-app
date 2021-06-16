@@ -1,0 +1,1 @@
+export const baseUrl = "https://riyaz-social-app.herokuapp.com"
